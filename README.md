@@ -1,2 +1,2 @@
 # insta-interface
-Jogo da memória usando interface do Instagram.
+Refazendo a interface de login do Instagram aplicando conceitos de flex-box.
